@@ -178,4 +178,3 @@ if __name__ == '__main__':
     heart = Heart()  # 心
     draw(root, canvas, heart)  # 开始画
     root.mainloop()
-helloworld
