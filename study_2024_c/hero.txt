@@ -1,0 +1,13 @@
+#英雄Id
+heroId:1
+#英雄姓名
+heroName:埼玉
+#英雄攻击力
+heroAtk:99999
+#英雄防御力
+heroDef:99999
+#英雄简介
+heroInfo:无敌
+
+aaaaaa
+bbbbbbbbbbbbb
